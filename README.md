@@ -1,7 +1,6 @@
 <h2>Olá!</h2>
 Meu nome é Markone Dias, sou um desenvolvedor de front-end. 
-Embora eu não tenha muita experiência profissional, eu tenho trabalhado em vários projetos pessoais para praticar e aprimorar minhas habilidades de codificação. Eu estou procurando uma oportunidade para desenvolver minhas habilidades profissionais em uma empresa que possa me dar a chance de crescer e me desenvolver como desenvolvedor de front-end. Eu estou ansioso para trabalhar em projetos desafiadores e contribuir para o sucesso da empresa.
-
+Embora eu não tenha muita experiência profissional, eu tenho trabalhado em vários projetos pessoais para praticar e aprimorar minhas habilidades de codificação. 
 
 <h3>Linguagens</h3>
 
